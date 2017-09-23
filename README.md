@@ -1,1 +1,1 @@
-Fuzz Result
+Vulnerability Report
